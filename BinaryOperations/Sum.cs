@@ -1,4 +1,6 @@
-﻿namespace WDP_Zagadnienia
+﻿using Calculator;
+
+namespace BinaryOperations
 {
     class Sum : BinaryOperation
     {

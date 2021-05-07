@@ -1,4 +1,6 @@
-﻿namespace WDP_Zagadnienia
+﻿using Calculator;
+
+namespace UnaryOperations
 {
     abstract class UnaryOperation : IOperation
     {

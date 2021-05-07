@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using BinaryOperations;
+using UnaryOperations;
 
-namespace WDP_Zagadnienia
+namespace Calculator
 {
     class ReversePolishNotation
     {

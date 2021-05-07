@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WDP_Zagadnienia
+namespace Calculator
 {
     class CalculatorRPN
     {

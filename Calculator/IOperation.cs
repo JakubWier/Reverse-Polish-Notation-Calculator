@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WDP_Zagadnienia
+namespace Calculator
 {
     public interface IOperation
     {

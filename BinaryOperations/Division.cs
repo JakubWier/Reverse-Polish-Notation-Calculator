@@ -1,6 +1,7 @@
 ﻿using System;
+using Calculator;
 
-namespace WDP_Zagadnienia
+namespace BinaryOperations
 {
     class Division : BinaryOperation
     {
