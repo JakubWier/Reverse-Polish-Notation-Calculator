@@ -1,0 +1,13 @@
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\WDP_Zagadnienia.exe
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\WDP_Zagadnienia.deps.json
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\WDP_Zagadnienia.runtimeconfig.json
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\WDP_Zagadnienia.runtimeconfig.dev.json
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\WDP_Zagadnienia.dll
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\WDP_Zagadnienia.pdb
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\WDP_Zagadnienia.csprojAssemblyReference.cache
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\WDP_Zagadnienia.AssemblyInfoInputs.cache
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\WDP_Zagadnienia.AssemblyInfo.cs
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\WDP_Zagadnienia.csproj.CoreCompileInputs.cache
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\WDP_Zagadnienia.dll
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\WDP_Zagadnienia.pdb
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\WDP_Zagadnienia.genruntimeconfig.cache

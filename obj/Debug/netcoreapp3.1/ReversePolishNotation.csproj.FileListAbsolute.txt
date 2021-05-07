@@ -1,0 +1,12 @@
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\ReversePolishNotation.exe
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\ReversePolishNotation.deps.json
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\ReversePolishNotation.runtimeconfig.json
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\ReversePolishNotation.runtimeconfig.dev.json
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\ReversePolishNotation.dll
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\bin\Debug\netcoreapp3.1\ReversePolishNotation.pdb
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\ReversePolishNotation.AssemblyInfoInputs.cache
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\ReversePolishNotation.AssemblyInfo.cs
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\ReversePolishNotation.csproj.CoreCompileInputs.cache
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\ReversePolishNotation.dll
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\ReversePolishNotation.pdb
+C:\Users\Borwa\source\repos\WDP_Zagadnienia\WDP_Zagadnienia\obj\Debug\netcoreapp3.1\ReversePolishNotation.genruntimeconfig.cache
